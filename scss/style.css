@@ -1,0 +1,93 @@
+@import url(./font.css);
+.header {
+  display: flex;
+  align-items: center;
+  color: #002959;
+  margin-top: 30px;
+}
+.header .logo {
+  margin-left: 100px;
+  width: 90px;
+  height: 38.03px;
+  margin-right: 496px;
+}
+.header select {
+  border: none;
+  margin-left: 30px;
+  font-family: "Inter";
+  font-size: 16px;
+}
+.header p {
+  margin-left: 30px;
+  font-size: 16px;
+  line-height: 19px;
+  font-family: "Inter";
+}
+.header button {
+  background-color: #EC6C21;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+  height: 50px;
+  width: 100px;
+  font-family: "Inter";
+  font-size: 16px;
+}
+.header img {
+  cursor: pointer;
+}
+.header .shop {
+  margin-left: 40px;
+  width: 35px;
+  height: 35px;
+  margin-top: -5px;
+  margin-right: 40px;
+}
+
+.main h1 {
+  margin-left: 229px;
+  width: 982px;
+  height: 114px;
+  font-family: "Inter";
+  font-size: 61px;
+  font-weight: 600;
+  line-height: 70px;
+  text-align: center;
+  color: #002959;
+  margin-bottom: 40px;
+}
+.main p {
+  width: 636px;
+  height: 42px;
+  font-family: "Inter";
+  margin-left: 402px;
+  font-size: 19.3px;
+  font-weight: 400;
+  line-height: 28px;
+  text-align: center;
+  color: #002959;
+}
+.main a {
+  display: flex;
+  align-items: center;
+  width: 200px;
+  text-decoration: none;
+  padding: 10px 30px;
+  gap: 6px;
+  background-color: #EC6C21;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+  height: 50px;
+  margin-left: 587px;
+  margin-top: 50px;
+}
+
+.header {
+  background-image: url(../img/Layer_1.png);
+  background-repeat: no-repeat;
+  background-position-y: 200px;
+}
+.header img {
+  margin-left: 250px;
+}/*# sourceMappingURL=style.css.map */
