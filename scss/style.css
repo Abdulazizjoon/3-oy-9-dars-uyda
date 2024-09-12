@@ -90,4 +90,16 @@
 }
 .footer img {
   margin-left: 250px;
+}
+
+.doodle-img {
+  position: absolute;
+  top: 104px;
+  left: 1065px;
+}
+
+.doodle {
+  position: absolute;
+  top: 280px;
+  left: 250px;
 }/*# sourceMappingURL=style.css.map */
